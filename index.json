@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "trmnl-zenml",
+  "versions": [
+    {
+      "commit": "b3460ce1f49bc2b04feedde9a0ff12dad0e3d294",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:39:49.819840+00:00"
+    }
+  ]
+}
