@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "zenml-io",
+  "repo": "trmnl-zenml",
+  "versions": [
+    {
+      "commit": "b3460ce1f49bc2b04feedde9a0ff12dad0e3d294",
+      "parsed_at": "2026-11-08T05:37:58.962563+00:00",
+      "filetree": "filetree/b3460ce1f49bc2b04feedde9a0ff12dad0e3d294.nq.gz",
+      "blobs": [
+        "blob/a8608b2c6a57e72113cd5743a8022109d1db0a96.nq.gz",
+        "blob/ba19908dd2f2722fefd1a385808e9bea2e174b80.nq.gz",
+        "blob/bf74936bd53cbe75734e469a83b23d679bb95393.nq.gz",
+        "blob/771a71ca6eceaf802ba28c77f7aeb607e09b96bf.nq.gz",
+        "blob/903ba603da154f0c0323f02a8435080219839c6b.nq.gz",
+        "blob/ae303a9caf006064985ed96625c6af2970914dab.nq.gz",
+        "blob/98a9f74101c835cbf13acfc5a1f52b7c0371bcb5.nq.gz",
+        "blob/b8a760080856d1b1e36c6a890cf2e20e4c743046.nq.gz",
+        "blob/b199d0bc780250b04566c43145a0d17d9b8ad22f.nq.gz",
+        "blob/5ef8f24751b7e247915b6ad00667144dace418dd.nq.gz",
+        "blob/8db293714753e6e2845fef83148f0f26b22ed534.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
